@@ -28,7 +28,7 @@ The following **required** functionality is completed:
 
 The following advanced user stories are optional:
 
-* []  Bonus 1: CSRF 2 
+* [ ]  Bonus 1: CSRF 2 
 
 ## Video Walkthrough
 
